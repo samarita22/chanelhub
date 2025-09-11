@@ -10,6 +10,6 @@ WITH events AS(
         campaign_id,
         order_id,
         filename
-    FROM {{source('channel_raw_data','fact_events')}}
+    FROM {{source('channel_raw_data','fact_web_events')}}
 )
 SELECT * FROM events

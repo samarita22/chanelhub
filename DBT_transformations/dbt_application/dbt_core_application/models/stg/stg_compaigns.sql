@@ -1,4 +1,4 @@
-WITH compaigns AS(
+WITH campaigns AS(
     SELECT 
         campaign_id,
         name as nom_campagne,
@@ -11,5 +11,6 @@ WITH compaigns AS(
         channel2  as canal2,
         channel3 as canal3,
         filename 
+    FROM {{source('channel_raw_data', 'dim_campaigns')}}
 )
-SELECT * FROM {{source('channel_raw_data', 'dim_campaigns')}}
+SELECT * FROM campaigns
