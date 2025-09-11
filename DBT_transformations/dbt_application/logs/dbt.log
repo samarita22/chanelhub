@@ -1,0 +1,29 @@
+[0m13:24:35.871357 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000017DEA6141A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000017DE83A9D10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000017DEC47BD90>]}
+
+
+============================== 13:24:35.876575 | 48a02d2f-8856-44e5-ad32-8d2079a35ba7 ==============================
+[0m13:24:35.876575 [info ] [MainThread]: Running with dbt=1.10.11
+[0m13:24:35.877387 [debug] [MainThread]: running dbt with arguments {'partial_parse': 'True', 'write_json': 'True', 'send_anonymous_usage_stats': 'True', 'warn_error': 'None', 'cache_selected_only': 'False', 'target_path': 'None', 'version_check': 'True', 'invocation_command': 'dbt init', 'log_format': 'default', 'use_colors': 'True', 'introspect': 'True', 'debug': 'False', 'log_cache_events': 'False', 'fail_fast': 'False', 'no_print': 'None', 'empty': 'None', 'quiet': 'False', 'printer_width': '80', 'use_experimental_parser': 'False', 'indirect_selection': 'eager', 'log_path': 'logs', 'profiles_dir': 'C:\\Users\\kpsro\\.dbt', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])'}
+[0m13:26:17.340637 [debug] [MainThread]: Starter project path: C:\Users\kpsro\Documents\Dossier provenant ordinateur rodrigue\Formation Snowflake\Projets_snowflake\DBT_transformations\venv\Lib\site-packages\dbt\include\starter_project
+[0m13:26:17.373489 [info ] [MainThread]: 
+Your new dbt project "dbt_core_application" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m13:26:17.374335 [info ] [MainThread]: Setting up your profile.
+[0m13:28:42.450282 [info ] [MainThread]: Profile dbt_core_application written to C:\Users\kpsro\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m13:28:42.452623 [debug] [MainThread]: Command `dbt init` succeeded at 13:28:42.452425 after 246.80 seconds
+[0m13:28:42.453120 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000017DED0463F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000017DEC51F530>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000017DED04DD00>]}
+[0m13:28:42.453570 [debug] [MainThread]: Flushing usage events
+[0m13:28:43.437856 [debug] [MainThread]: An error was encountered while trying to flush usage events

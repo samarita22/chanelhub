@@ -1,0 +1,15 @@
+version : 2
+
+sources:
+  - name: channel_raw_data
+    database: chanelhub
+    schema: raw
+    tables:
+      - name: dim_customers
+      - name: dim_campaigns
+      - name: dim_products_master
+      - name: fact_orders
+      - name: fact_order_items
+      - name: fact_inventory
+      - name: fact_web_events
+      - name: fact_shipments

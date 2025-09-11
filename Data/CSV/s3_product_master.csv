@@ -1,0 +1,501 @@
+sku,collection,category,price_list
+SKU_0001,Lunettes,Veste,173.8
+SKU_0002,Accessoires,Chaussure,1154.89
+SKU_0003,Lunettes,Veste,3399.66
+SKU_0004,Horlogerie,Veste,2972.94
+SKU_0005,Haute Couture,Robe,513.79
+SKU_0006,Prêt-à-porter,Bijou,3029.99
+SKU_0007,Horlogerie,Chaussure,3594.3
+SKU_0008,Lunettes,Bijou,2126.62
+SKU_0009,Beauté,Parfum,4056.68
+SKU_0010,Haute Couture,Sac,3505.79
+SKU_0011,Accessoires,Parfum,819.62
+SKU_0012,Accessoires,Veste,509.09
+SKU_0013,Haute Couture,Montre,4245.1
+SKU_0014,Horlogerie,Parfum,4045.28
+SKU_0015,Lunettes,Ceinture,2704.33
+SKU_0016,Beauté,Veste,2782.6
+SKU_0017,Lunettes,Montre,2907.89
+SKU_0018,Lunettes,Veste,276.83
+SKU_0019,Prêt-à-porter,Parfum,4926.85
+SKU_0020,Prêt-à-porter,Veste,1931.62
+SKU_0021,Beauté,Montre,855.14
+SKU_0022,Accessoires,Chaussure,3367.37
+SKU_0023,Lunettes,Veste,3065.2
+SKU_0024,Prêt-à-porter,Bijou,3659.18
+SKU_0025,Prêt-à-porter,Ceinture,1928.3
+SKU_0026,Lunettes,Bijou,1137.1
+SKU_0027,Accessoires,Robe,1183.79
+SKU_0028,Haute Couture,Montre,2035.77
+SKU_0029,Haute Couture,Chaussure,4570.02
+SKU_0030,Horlogerie,Montre,1102.5
+SKU_0031,Beauté,Lunettes,4429.18
+SKU_0032,Lunettes,Ceinture,757.21
+SKU_0033,Prêt-à-porter,Chaussure,3737.7
+SKU_0034,Horlogerie,Parfum,3747.72
+SKU_0035,Beauté,Lunettes,1841.88
+SKU_0036,Prêt-à-porter,Bijou,2492.9
+SKU_0037,Haute Couture,Veste,806.56
+SKU_0038,Prêt-à-porter,Lunettes,3002.22
+SKU_0039,Beauté,Lunettes,2999.65
+SKU_0040,Beauté,Bijou,1294.5
+SKU_0041,Horlogerie,Robe,3417.4
+SKU_0042,Haute Couture,Bijou,3766.85
+SKU_0043,Lunettes,Montre,602.18
+SKU_0044,Beauté,Sac,2295.93
+SKU_0045,Lunettes,Parfum,4860.85
+SKU_0046,Prêt-à-porter,Bijou,4567.51
+SKU_0047,Lunettes,Parfum,4216.26
+SKU_0048,Horlogerie,Chaussure,806.55
+SKU_0049,Prêt-à-porter,Bijou,4769.82
+SKU_0050,Horlogerie,Robe,3014.78
+SKU_0051,Beauté,Robe,603.75
+SKU_0052,Accessoires,Parfum,1235.29
+SKU_0053,Prêt-à-porter,Veste,473.98
+SKU_0054,Beauté,Veste,4891.02
+SKU_0055,Horlogerie,Sac,685.54
+SKU_0056,Beauté,Bijou,867.38
+SKU_0057,Horlogerie,Lunettes,4823.6
+SKU_0058,Horlogerie,Chaussure,3579.1
+SKU_0059,Beauté,Montre,2218.6
+SKU_0060,Horlogerie,Ceinture,648.97
+SKU_0061,Prêt-à-porter,Veste,1723.52
+SKU_0062,Horlogerie,Bijou,1189.07
+SKU_0063,Prêt-à-porter,Robe,401.42
+SKU_0064,Lunettes,Robe,1183.26
+SKU_0065,Haute Couture,Montre,400.74
+SKU_0066,Prêt-à-porter,Parfum,3361.44
+SKU_0067,Prêt-à-porter,Bijou,704.94
+SKU_0068,Horlogerie,Ceinture,1252.84
+SKU_0069,Beauté,Lunettes,992.53
+SKU_0070,Haute Couture,Lunettes,1803.77
+SKU_0071,Beauté,Ceinture,4325.99
+SKU_0072,Haute Couture,Veste,350.03
+SKU_0073,Lunettes,Montre,4012.93
+SKU_0074,Haute Couture,Chaussure,998.37
+SKU_0075,Horlogerie,Ceinture,743.9
+SKU_0076,Prêt-à-porter,Parfum,2340.01
+SKU_0077,Haute Couture,Ceinture,4049.71
+SKU_0078,Horlogerie,Veste,300.41
+SKU_0079,Horlogerie,Robe,4846.53
+SKU_0080,Prêt-à-porter,Sac,2061.75
+SKU_0081,Beauté,Chaussure,4330.02
+SKU_0082,Haute Couture,Sac,1925.92
+SKU_0083,Beauté,Parfum,4636.26
+SKU_0084,Beauté,Parfum,2143.89
+SKU_0085,Lunettes,Bijou,3326.26
+SKU_0086,Beauté,Sac,989.99
+SKU_0087,Prêt-à-porter,Robe,2916.94
+SKU_0088,Horlogerie,Robe,3752.48
+SKU_0089,Haute Couture,Robe,2941.68
+SKU_0090,Horlogerie,Bijou,829.29
+SKU_0091,Horlogerie,Veste,4264.15
+SKU_0092,Haute Couture,Veste,3392.3
+SKU_0093,Prêt-à-porter,Lunettes,643.44
+SKU_0094,Horlogerie,Chaussure,2915.65
+SKU_0095,Haute Couture,Veste,2125.16
+SKU_0096,Horlogerie,Bijou,1616.03
+SKU_0097,Accessoires,Chaussure,3365.14
+SKU_0098,Accessoires,Chaussure,1364.79
+SKU_0099,Prêt-à-porter,Parfum,2313.26
+SKU_0100,Haute Couture,Robe,2318.51
+SKU_0101,Horlogerie,Veste,412.64
+SKU_0102,Prêt-à-porter,Bijou,1362.74
+SKU_0103,Accessoires,Veste,4402.39
+SKU_0104,Accessoires,Parfum,830.85
+SKU_0105,Horlogerie,Parfum,3077.8
+SKU_0106,Lunettes,Bijou,88.72
+SKU_0107,Horlogerie,Parfum,4662.19
+SKU_0108,Haute Couture,Sac,1359.11
+SKU_0109,Haute Couture,Bijou,819.47
+SKU_0110,Accessoires,Chaussure,3602.18
+SKU_0111,Prêt-à-porter,Parfum,2551.77
+SKU_0112,Accessoires,Robe,506.88
+SKU_0113,Beauté,Parfum,268.23
+SKU_0114,Accessoires,Sac,3203.71
+SKU_0115,Accessoires,Sac,3719.09
+SKU_0116,Horlogerie,Lunettes,2826.49
+SKU_0117,Haute Couture,Veste,4728.0
+SKU_0118,Lunettes,Sac,2750.67
+SKU_0119,Accessoires,Bijou,783.06
+SKU_0120,Prêt-à-porter,Robe,1575.88
+SKU_0121,Haute Couture,Montre,1089.88
+SKU_0122,Prêt-à-porter,Veste,1800.71
+SKU_0123,Horlogerie,Lunettes,4870.49
+SKU_0124,Lunettes,Sac,4632.53
+SKU_0125,Prêt-à-porter,Sac,4882.22
+SKU_0126,Prêt-à-porter,Lunettes,172.69
+SKU_0127,Lunettes,Montre,3922.81
+SKU_0128,Beauté,Chaussure,1370.69
+SKU_0129,Lunettes,Veste,1943.58
+SKU_0130,Haute Couture,Ceinture,1151.05
+SKU_0131,Beauté,Montre,1560.69
+SKU_0132,Prêt-à-porter,Chaussure,167.14
+SKU_0133,Prêt-à-porter,Lunettes,1674.9
+SKU_0134,Haute Couture,Parfum,1788.17
+SKU_0135,Horlogerie,Lunettes,3413.61
+SKU_0136,Horlogerie,Montre,4699.22
+SKU_0137,Haute Couture,Parfum,933.91
+SKU_0138,Accessoires,Robe,586.59
+SKU_0139,Beauté,Montre,3656.3
+SKU_0140,Accessoires,Lunettes,3050.73
+SKU_0141,Horlogerie,Veste,1956.72
+SKU_0142,Horlogerie,Chaussure,1310.88
+SKU_0143,Lunettes,Lunettes,58.37
+SKU_0144,Horlogerie,Chaussure,1852.9
+SKU_0145,Haute Couture,Montre,3134.62
+SKU_0146,Lunettes,Veste,3612.78
+SKU_0147,Accessoires,Bijou,1580.96
+SKU_0148,Beauté,Montre,2041.88
+SKU_0149,Accessoires,Bijou,680.07
+SKU_0150,Beauté,Lunettes,3402.72
+SKU_0151,Prêt-à-porter,Parfum,2060.07
+SKU_0152,Haute Couture,Parfum,1470.22
+SKU_0153,Beauté,Montre,2351.69
+SKU_0154,Beauté,Chaussure,2580.31
+SKU_0155,Lunettes,Sac,3311.31
+SKU_0156,Accessoires,Bijou,3336.08
+SKU_0157,Horlogerie,Montre,512.27
+SKU_0158,Prêt-à-porter,Parfum,1161.97
+SKU_0159,Prêt-à-porter,Sac,170.91
+SKU_0160,Prêt-à-porter,Ceinture,3075.81
+SKU_0161,Haute Couture,Ceinture,2101.48
+SKU_0162,Lunettes,Chaussure,3605.81
+SKU_0163,Beauté,Ceinture,2028.28
+SKU_0164,Prêt-à-porter,Robe,4468.67
+SKU_0165,Haute Couture,Lunettes,1133.26
+SKU_0166,Lunettes,Bijou,2349.52
+SKU_0167,Horlogerie,Chaussure,4591.48
+SKU_0168,Haute Couture,Ceinture,710.03
+SKU_0169,Beauté,Bijou,4940.07
+SKU_0170,Horlogerie,Montre,4752.7
+SKU_0171,Beauté,Bijou,2162.37
+SKU_0172,Horlogerie,Ceinture,4491.18
+SKU_0173,Lunettes,Ceinture,2277.85
+SKU_0174,Prêt-à-porter,Parfum,3840.78
+SKU_0175,Horlogerie,Ceinture,3152.4
+SKU_0176,Accessoires,Ceinture,433.54
+SKU_0177,Accessoires,Chaussure,1394.99
+SKU_0178,Accessoires,Bijou,448.86
+SKU_0179,Prêt-à-porter,Chaussure,1946.02
+SKU_0180,Prêt-à-porter,Chaussure,367.93
+SKU_0181,Beauté,Montre,2735.93
+SKU_0182,Beauté,Robe,1073.83
+SKU_0183,Beauté,Lunettes,4528.95
+SKU_0184,Horlogerie,Robe,4290.82
+SKU_0185,Horlogerie,Lunettes,2411.05
+SKU_0186,Accessoires,Parfum,3779.7
+SKU_0187,Beauté,Bijou,3750.2
+SKU_0188,Horlogerie,Chaussure,2466.74
+SKU_0189,Accessoires,Lunettes,2453.93
+SKU_0190,Beauté,Montre,3360.92
+SKU_0191,Beauté,Sac,4210.5
+SKU_0192,Prêt-à-porter,Bijou,183.48
+SKU_0193,Beauté,Robe,465.54
+SKU_0194,Beauté,Sac,4340.91
+SKU_0195,Prêt-à-porter,Robe,1337.77
+SKU_0196,Accessoires,Chaussure,2300.76
+SKU_0197,Accessoires,Lunettes,1427.37
+SKU_0198,Beauté,Parfum,4182.81
+SKU_0199,Beauté,Robe,3757.67
+SKU_0200,Haute Couture,Montre,1159.9
+SKU_0201,Haute Couture,Robe,3783.45
+SKU_0202,Prêt-à-porter,Chaussure,4204.18
+SKU_0203,Horlogerie,Sac,1230.8
+SKU_0204,Beauté,Veste,2841.65
+SKU_0205,Prêt-à-porter,Ceinture,3512.35
+SKU_0206,Accessoires,Sac,3049.17
+SKU_0207,Lunettes,Veste,3900.07
+SKU_0208,Prêt-à-porter,Parfum,585.09
+SKU_0209,Haute Couture,Parfum,2900.19
+SKU_0210,Beauté,Lunettes,4710.28
+SKU_0211,Prêt-à-porter,Veste,2980.88
+SKU_0212,Lunettes,Chaussure,554.41
+SKU_0213,Accessoires,Veste,3991.32
+SKU_0214,Horlogerie,Robe,1768.66
+SKU_0215,Beauté,Montre,391.34
+SKU_0216,Lunettes,Montre,112.63
+SKU_0217,Beauté,Ceinture,572.42
+SKU_0218,Accessoires,Ceinture,3551.18
+SKU_0219,Beauté,Sac,3682.29
+SKU_0220,Lunettes,Parfum,3098.77
+SKU_0221,Horlogerie,Ceinture,2351.13
+SKU_0222,Lunettes,Parfum,1645.41
+SKU_0223,Prêt-à-porter,Veste,1430.69
+SKU_0224,Beauté,Chaussure,3764.86
+SKU_0225,Horlogerie,Lunettes,1715.16
+SKU_0226,Beauté,Montre,950.11
+SKU_0227,Prêt-à-porter,Montre,3999.27
+SKU_0228,Accessoires,Parfum,4407.58
+SKU_0229,Lunettes,Parfum,2801.17
+SKU_0230,Horlogerie,Chaussure,473.78
+SKU_0231,Lunettes,Lunettes,2468.46
+SKU_0232,Prêt-à-porter,Ceinture,3247.22
+SKU_0233,Beauté,Ceinture,3975.02
+SKU_0234,Haute Couture,Parfum,1146.9
+SKU_0235,Lunettes,Chaussure,1565.72
+SKU_0236,Horlogerie,Montre,2392.64
+SKU_0237,Horlogerie,Montre,2156.24
+SKU_0238,Lunettes,Bijou,1687.42
+SKU_0239,Lunettes,Ceinture,1391.04
+SKU_0240,Accessoires,Chaussure,647.25
+SKU_0241,Prêt-à-porter,Montre,641.8
+SKU_0242,Horlogerie,Sac,998.13
+SKU_0243,Lunettes,Ceinture,1418.67
+SKU_0244,Horlogerie,Bijou,3004.11
+SKU_0245,Haute Couture,Chaussure,1516.42
+SKU_0246,Accessoires,Sac,1546.22
+SKU_0247,Lunettes,Bijou,676.59
+SKU_0248,Haute Couture,Robe,2789.13
+SKU_0249,Lunettes,Sac,3207.45
+SKU_0250,Beauté,Veste,4369.96
+SKU_0251,Horlogerie,Parfum,2373.51
+SKU_0252,Beauté,Montre,962.6
+SKU_0253,Haute Couture,Parfum,4708.26
+SKU_0254,Beauté,Veste,4119.47
+SKU_0255,Beauté,Ceinture,416.71
+SKU_0256,Lunettes,Robe,801.05
+SKU_0257,Horlogerie,Parfum,471.65
+SKU_0258,Prêt-à-porter,Veste,2812.46
+SKU_0259,Beauté,Chaussure,3889.68
+SKU_0260,Beauté,Ceinture,4547.1
+SKU_0261,Accessoires,Lunettes,1561.63
+SKU_0262,Horlogerie,Robe,3067.67
+SKU_0263,Lunettes,Veste,4740.57
+SKU_0264,Prêt-à-porter,Chaussure,1360.0
+SKU_0265,Haute Couture,Sac,1237.33
+SKU_0266,Horlogerie,Veste,824.84
+SKU_0267,Beauté,Ceinture,3462.39
+SKU_0268,Beauté,Parfum,211.57
+SKU_0269,Accessoires,Parfum,3529.79
+SKU_0270,Beauté,Veste,3452.56
+SKU_0271,Accessoires,Chaussure,2154.44
+SKU_0272,Horlogerie,Chaussure,3255.79
+SKU_0273,Accessoires,Sac,403.48
+SKU_0274,Prêt-à-porter,Parfum,2995.47
+SKU_0275,Horlogerie,Parfum,2223.81
+SKU_0276,Beauté,Parfum,3513.68
+SKU_0277,Accessoires,Bijou,2722.91
+SKU_0278,Beauté,Veste,3010.28
+SKU_0279,Beauté,Montre,3038.38
+SKU_0280,Haute Couture,Veste,1183.18
+SKU_0281,Lunettes,Robe,4997.88
+SKU_0282,Lunettes,Parfum,2902.42
+SKU_0283,Prêt-à-porter,Ceinture,2618.87
+SKU_0284,Beauté,Parfum,948.37
+SKU_0285,Horlogerie,Lunettes,3192.18
+SKU_0286,Beauté,Veste,2376.55
+SKU_0287,Beauté,Montre,1639.24
+SKU_0288,Haute Couture,Sac,1682.53
+SKU_0289,Lunettes,Ceinture,1476.68
+SKU_0290,Beauté,Bijou,231.65
+SKU_0291,Haute Couture,Montre,1299.37
+SKU_0292,Haute Couture,Lunettes,4331.31
+SKU_0293,Haute Couture,Bijou,2336.78
+SKU_0294,Haute Couture,Chaussure,2616.27
+SKU_0295,Horlogerie,Ceinture,3145.77
+SKU_0296,Haute Couture,Chaussure,1371.93
+SKU_0297,Prêt-à-porter,Parfum,2218.67
+SKU_0298,Lunettes,Ceinture,651.06
+SKU_0299,Lunettes,Chaussure,3563.42
+SKU_0300,Accessoires,Bijou,117.69
+SKU_0301,Beauté,Veste,1162.27
+SKU_0302,Haute Couture,Ceinture,4737.95
+SKU_0303,Lunettes,Sac,2516.96
+SKU_0304,Lunettes,Parfum,2568.92
+SKU_0305,Accessoires,Lunettes,4181.88
+SKU_0306,Beauté,Chaussure,2311.09
+SKU_0307,Prêt-à-porter,Lunettes,993.52
+SKU_0308,Horlogerie,Bijou,3744.15
+SKU_0309,Prêt-à-porter,Veste,1417.42
+SKU_0310,Beauté,Montre,4674.53
+SKU_0311,Horlogerie,Parfum,4111.72
+SKU_0312,Accessoires,Parfum,4195.51
+SKU_0313,Horlogerie,Ceinture,4333.04
+SKU_0314,Beauté,Bijou,2447.49
+SKU_0315,Accessoires,Bijou,3826.22
+SKU_0316,Beauté,Ceinture,4667.62
+SKU_0317,Prêt-à-porter,Chaussure,2880.4
+SKU_0318,Prêt-à-porter,Lunettes,266.05
+SKU_0319,Lunettes,Ceinture,3540.88
+SKU_0320,Beauté,Lunettes,4942.65
+SKU_0321,Lunettes,Sac,2501.88
+SKU_0322,Haute Couture,Sac,2536.34
+SKU_0323,Horlogerie,Montre,4355.02
+SKU_0324,Beauté,Veste,2653.46
+SKU_0325,Beauté,Robe,3626.1
+SKU_0326,Beauté,Sac,420.4
+SKU_0327,Accessoires,Montre,3135.13
+SKU_0328,Beauté,Veste,4266.24
+SKU_0329,Lunettes,Bijou,1931.05
+SKU_0330,Accessoires,Ceinture,4368.3
+SKU_0331,Haute Couture,Veste,1212.11
+SKU_0332,Lunettes,Parfum,4987.26
+SKU_0333,Lunettes,Veste,2198.16
+SKU_0334,Haute Couture,Veste,2246.21
+SKU_0335,Lunettes,Parfum,4521.95
+SKU_0336,Haute Couture,Montre,3990.91
+SKU_0337,Accessoires,Montre,1905.46
+SKU_0338,Prêt-à-porter,Chaussure,2679.27
+SKU_0339,Horlogerie,Sac,891.42
+SKU_0340,Haute Couture,Lunettes,3117.57
+SKU_0341,Prêt-à-porter,Ceinture,4568.5
+SKU_0342,Prêt-à-porter,Chaussure,2332.69
+SKU_0343,Accessoires,Ceinture,1313.87
+SKU_0344,Haute Couture,Ceinture,4510.99
+SKU_0345,Lunettes,Bijou,831.98
+SKU_0346,Beauté,Montre,4938.88
+SKU_0347,Accessoires,Lunettes,3467.05
+SKU_0348,Beauté,Parfum,1036.12
+SKU_0349,Beauté,Ceinture,577.93
+SKU_0350,Beauté,Montre,2895.32
+SKU_0351,Lunettes,Parfum,158.6
+SKU_0352,Lunettes,Lunettes,1408.68
+SKU_0353,Horlogerie,Robe,4557.55
+SKU_0354,Lunettes,Ceinture,4172.55
+SKU_0355,Accessoires,Chaussure,3054.97
+SKU_0356,Accessoires,Chaussure,3201.26
+SKU_0357,Horlogerie,Parfum,3404.93
+SKU_0358,Lunettes,Sac,3159.83
+SKU_0359,Lunettes,Robe,1579.22
+SKU_0360,Beauté,Robe,2918.89
+SKU_0361,Lunettes,Sac,496.16
+SKU_0362,Accessoires,Montre,3750.03
+SKU_0363,Prêt-à-porter,Chaussure,704.19
+SKU_0364,Horlogerie,Montre,2677.72
+SKU_0365,Accessoires,Sac,1322.0
+SKU_0366,Beauté,Parfum,3745.47
+SKU_0367,Accessoires,Veste,2368.24
+SKU_0368,Haute Couture,Sac,3783.05
+SKU_0369,Prêt-à-porter,Lunettes,4837.99
+SKU_0370,Horlogerie,Montre,497.0
+SKU_0371,Beauté,Robe,1359.07
+SKU_0372,Haute Couture,Ceinture,1874.5
+SKU_0373,Lunettes,Parfum,2943.57
+SKU_0374,Lunettes,Montre,586.31
+SKU_0375,Prêt-à-porter,Ceinture,173.87
+SKU_0376,Horlogerie,Montre,4580.52
+SKU_0377,Prêt-à-porter,Veste,3195.25
+SKU_0378,Beauté,Parfum,3263.74
+SKU_0379,Haute Couture,Sac,274.47
+SKU_0380,Haute Couture,Parfum,4979.84
+SKU_0381,Haute Couture,Veste,1212.26
+SKU_0382,Horlogerie,Sac,1973.8
+SKU_0383,Accessoires,Bijou,2124.68
+SKU_0384,Lunettes,Sac,4432.8
+SKU_0385,Lunettes,Veste,4176.78
+SKU_0386,Horlogerie,Lunettes,4698.31
+SKU_0387,Accessoires,Robe,3466.89
+SKU_0388,Prêt-à-porter,Ceinture,2251.24
+SKU_0389,Prêt-à-porter,Montre,541.81
+SKU_0390,Lunettes,Montre,2745.11
+SKU_0391,Lunettes,Montre,349.72
+SKU_0392,Accessoires,Chaussure,4842.62
+SKU_0393,Beauté,Veste,3330.71
+SKU_0394,Lunettes,Robe,300.36
+SKU_0395,Accessoires,Chaussure,4944.66
+SKU_0396,Horlogerie,Chaussure,389.62
+SKU_0397,Horlogerie,Chaussure,2952.6
+SKU_0398,Prêt-à-porter,Montre,3883.12
+SKU_0399,Horlogerie,Robe,1422.51
+SKU_0400,Prêt-à-porter,Sac,2724.07
+SKU_0401,Prêt-à-porter,Veste,3322.24
+SKU_0402,Haute Couture,Sac,123.56
+SKU_0403,Prêt-à-porter,Montre,128.12
+SKU_0404,Accessoires,Robe,677.45
+SKU_0405,Beauté,Bijou,612.56
+SKU_0406,Haute Couture,Ceinture,2268.96
+SKU_0407,Accessoires,Bijou,2988.65
+SKU_0408,Beauté,Bijou,1146.67
+SKU_0409,Horlogerie,Robe,3649.85
+SKU_0410,Lunettes,Bijou,1543.07
+SKU_0411,Lunettes,Robe,351.09
+SKU_0412,Beauté,Lunettes,2160.05
+SKU_0413,Haute Couture,Ceinture,3576.39
+SKU_0414,Beauté,Veste,4501.37
+SKU_0415,Accessoires,Sac,375.13
+SKU_0416,Accessoires,Bijou,3575.16
+SKU_0417,Beauté,Bijou,1509.74
+SKU_0418,Horlogerie,Lunettes,540.93
+SKU_0419,Lunettes,Veste,4271.32
+SKU_0420,Lunettes,Bijou,3618.16
+SKU_0421,Prêt-à-porter,Lunettes,2285.2
+SKU_0422,Prêt-à-porter,Lunettes,1727.71
+SKU_0423,Beauté,Lunettes,2109.15
+SKU_0424,Haute Couture,Montre,2162.48
+SKU_0425,Lunettes,Parfum,1902.79
+SKU_0426,Prêt-à-porter,Ceinture,382.31
+SKU_0427,Haute Couture,Veste,2187.79
+SKU_0428,Lunettes,Montre,4068.26
+SKU_0429,Horlogerie,Robe,2953.0
+SKU_0430,Horlogerie,Bijou,1681.75
+SKU_0431,Haute Couture,Lunettes,1800.31
+SKU_0432,Lunettes,Lunettes,4347.06
+SKU_0433,Lunettes,Robe,4843.57
+SKU_0434,Horlogerie,Parfum,1790.65
+SKU_0435,Horlogerie,Bijou,1103.06
+SKU_0436,Lunettes,Ceinture,1160.01
+SKU_0437,Haute Couture,Montre,4234.6
+SKU_0438,Accessoires,Veste,3824.9
+SKU_0439,Horlogerie,Chaussure,4045.75
+SKU_0440,Horlogerie,Bijou,179.96
+SKU_0441,Lunettes,Parfum,193.32
+SKU_0442,Accessoires,Parfum,4611.61
+SKU_0443,Accessoires,Robe,947.96
+SKU_0444,Prêt-à-porter,Lunettes,394.45
+SKU_0445,Lunettes,Robe,504.2
+SKU_0446,Horlogerie,Chaussure,1912.16
+SKU_0447,Beauté,Montre,829.18
+SKU_0448,Accessoires,Montre,3895.34
+SKU_0449,Horlogerie,Veste,4422.54
+SKU_0450,Prêt-à-porter,Sac,3784.46
+SKU_0451,Haute Couture,Veste,1396.91
+SKU_0452,Lunettes,Lunettes,2454.03
+SKU_0453,Beauté,Lunettes,1402.18
+SKU_0454,Horlogerie,Veste,1758.61
+SKU_0455,Haute Couture,Parfum,3407.18
+SKU_0456,Horlogerie,Ceinture,2658.32
+SKU_0457,Accessoires,Robe,1141.57
+SKU_0458,Horlogerie,Robe,88.05
+SKU_0459,Accessoires,Chaussure,3848.38
+SKU_0460,Accessoires,Parfum,1674.21
+SKU_0461,Haute Couture,Ceinture,3747.72
+SKU_0462,Prêt-à-porter,Sac,1932.03
+SKU_0463,Lunettes,Chaussure,2526.3
+SKU_0464,Lunettes,Montre,406.77
+SKU_0465,Lunettes,Robe,2209.29
+SKU_0466,Beauté,Veste,4317.44
+SKU_0467,Horlogerie,Lunettes,2888.33
+SKU_0468,Lunettes,Lunettes,1483.1
+SKU_0469,Beauté,Robe,4832.69
+SKU_0470,Prêt-à-porter,Ceinture,4168.53
+SKU_0471,Accessoires,Veste,2211.72
+SKU_0472,Haute Couture,Chaussure,2206.6
+SKU_0473,Beauté,Bijou,439.3
+SKU_0474,Accessoires,Montre,1146.78
+SKU_0475,Prêt-à-porter,Veste,2576.89
+SKU_0476,Haute Couture,Bijou,2574.26
+SKU_0477,Accessoires,Montre,3650.53
+SKU_0478,Lunettes,Sac,1219.53
+SKU_0479,Prêt-à-porter,Parfum,1026.5
+SKU_0480,Horlogerie,Sac,3813.07
+SKU_0481,Lunettes,Veste,926.87
+SKU_0482,Lunettes,Ceinture,2346.57
+SKU_0483,Horlogerie,Ceinture,3421.61
+SKU_0484,Horlogerie,Montre,4328.02
+SKU_0485,Lunettes,Montre,797.24
+SKU_0486,Haute Couture,Ceinture,2238.93
+SKU_0487,Accessoires,Parfum,2977.53
+SKU_0488,Accessoires,Bijou,417.24
+SKU_0489,Beauté,Ceinture,236.16
+SKU_0490,Accessoires,Parfum,429.82
+SKU_0491,Haute Couture,Bijou,1953.19
+SKU_0492,Horlogerie,Bijou,4773.45
+SKU_0493,Lunettes,Robe,2276.18
+SKU_0494,Horlogerie,Chaussure,1641.56
+SKU_0495,Beauté,Bijou,796.76
+SKU_0496,Haute Couture,Ceinture,562.33
+SKU_0497,Accessoires,Veste,2547.52
+SKU_0498,Prêt-à-porter,Robe,1276.33
+SKU_0499,Beauté,Ceinture,2644.14
+SKU_0500,Horlogerie,Sac,1851.29

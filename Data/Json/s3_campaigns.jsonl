@@ -1,0 +1,60 @@
+{"campaign_id": "CAMP_001", "name": "CHANEL_Traffic_001", "market": "IT", "start_dt": "2025-08-09", "end_dt": "2025-09-04", "objective": "Traffic", "channels": ["social", "email"]}
+{"campaign_id": "CAMP_002", "name": "CHANEL_Awareness_002", "market": "KR", "start_dt": "2025-08-01", "end_dt": "2025-08-12", "objective": "Awareness", "channels": ["email", "social", "display"]}
+{"campaign_id": "CAMP_003", "name": "CHANEL_Awareness_003", "market": "DE", "start_dt": "2025-08-09", "end_dt": "2025-08-28", "objective": "Conversion", "channels": ["display"]}
+{"campaign_id": "CAMP_004", "name": "CHANEL_Conversion_004", "market": "IT", "start_dt": "2025-08-05", "end_dt": "2025-08-23", "objective": "Conversion", "channels": ["search", "display"]}
+{"campaign_id": "CAMP_005", "name": "CHANEL_Conversion_005", "market": "UK", "start_dt": "2025-08-04", "end_dt": "2025-08-31", "objective": "Retention", "channels": ["social", "email", "search"]}
+{"campaign_id": "CAMP_006", "name": "CHANEL_Conversion_006", "market": "JP", "start_dt": "2025-08-01", "end_dt": "2025-08-31", "objective": "Awareness", "channels": ["email"]}
+{"campaign_id": "CAMP_007", "name": "CHANEL_Conversion_007", "market": "KR", "start_dt": "2025-08-09", "end_dt": "2025-09-04", "objective": "Retention", "channels": ["email", "display", "search"]}
+{"campaign_id": "CAMP_008", "name": "CHANEL_Conversion_008", "market": "AE", "start_dt": "2025-08-10", "end_dt": "2025-08-21", "objective": "Retention", "channels": ["social", "email", "search"]}
+{"campaign_id": "CAMP_009", "name": "CHANEL_Traffic_009", "market": "IT", "start_dt": "2025-08-05", "end_dt": "2025-08-29", "objective": "Retention", "channels": ["search"]}
+{"campaign_id": "CAMP_010", "name": "CHANEL_Retention_010", "market": "IT", "start_dt": "2025-08-02", "end_dt": "2025-08-31", "objective": "Traffic", "channels": ["social", "search"]}
+{"campaign_id": "CAMP_011", "name": "CHANEL_Traffic_011", "market": "SG", "start_dt": "2025-08-09", "end_dt": "2025-09-08", "objective": "Retention", "channels": ["social"]}
+{"campaign_id": "CAMP_012", "name": "CHANEL_Awareness_012", "market": "US", "start_dt": "2025-08-04", "end_dt": "2025-09-01", "objective": "Awareness", "channels": ["email", "search", "social"]}
+{"campaign_id": "CAMP_013", "name": "CHANEL_Traffic_013", "market": "US", "start_dt": "2025-08-03", "end_dt": "2025-08-31", "objective": "Awareness", "channels": ["social", "search", "display"]}
+{"campaign_id": "CAMP_014", "name": "CHANEL_Awareness_014", "market": "FR", "start_dt": "2025-08-02", "end_dt": "2025-08-13", "objective": "Traffic", "channels": ["social"]}
+{"campaign_id": "CAMP_015", "name": "CHANEL_Awareness_015", "market": "KR", "start_dt": "2025-08-01", "end_dt": "2025-08-11", "objective": "Retention", "channels": ["email", "social"]}
+{"campaign_id": "CAMP_016", "name": "CHANEL_Awareness_016", "market": "KR", "start_dt": "2025-08-02", "end_dt": "2025-08-13", "objective": "Retention", "channels": ["email", "search", "display"]}
+{"campaign_id": "CAMP_017", "name": "CHANEL_Conversion_017", "market": "JP", "start_dt": "2025-08-09", "end_dt": "2025-08-21", "objective": "Conversion", "channels": ["search", "social"]}
+{"campaign_id": "CAMP_018", "name": "CHANEL_Conversion_018", "market": "AE", "start_dt": "2025-08-01", "end_dt": "2025-08-18", "objective": "Traffic", "channels": ["search", "display", "email"]}
+{"campaign_id": "CAMP_019", "name": "CHANEL_Retention_019", "market": "KR", "start_dt": "2025-08-08", "end_dt": "2025-08-26", "objective": "Traffic", "channels": ["display"]}
+{"campaign_id": "CAMP_020", "name": "CHANEL_Conversion_020", "market": "UK", "start_dt": "2025-08-05", "end_dt": "2025-08-28", "objective": "Awareness", "channels": ["social"]}
+{"campaign_id": "CAMP_021", "name": "CHANEL_Retention_021", "market": "US", "start_dt": "2025-08-01", "end_dt": "2025-08-25", "objective": "Awareness", "channels": ["display", "social"]}
+{"campaign_id": "CAMP_022", "name": "CHANEL_Retention_022", "market": "UK", "start_dt": "2025-08-10", "end_dt": "2025-09-01", "objective": "Conversion", "channels": ["search"]}
+{"campaign_id": "CAMP_023", "name": "CHANEL_Retention_023", "market": "DE", "start_dt": "2025-08-07", "end_dt": "2025-08-30", "objective": "Conversion", "channels": ["search"]}
+{"campaign_id": "CAMP_024", "name": "CHANEL_Retention_024", "market": "AE", "start_dt": "2025-08-01", "end_dt": "2025-08-31", "objective": "Conversion", "channels": ["search"]}
+{"campaign_id": "CAMP_025", "name": "CHANEL_Awareness_025", "market": "ES", "start_dt": "2025-08-04", "end_dt": "2025-08-23", "objective": "Conversion", "channels": ["email"]}
+{"campaign_id": "CAMP_026", "name": "CHANEL_Conversion_026", "market": "SG", "start_dt": "2025-08-10", "end_dt": "2025-09-07", "objective": "Retention", "channels": ["search"]}
+{"campaign_id": "CAMP_027", "name": "CHANEL_Traffic_027", "market": "DE", "start_dt": "2025-08-06", "end_dt": "2025-09-02", "objective": "Retention", "channels": ["social", "email", "search"]}
+{"campaign_id": "CAMP_028", "name": "CHANEL_Retention_028", "market": "US", "start_dt": "2025-08-07", "end_dt": "2025-09-03", "objective": "Retention", "channels": ["email", "search", "display"]}
+{"campaign_id": "CAMP_029", "name": "CHANEL_Awareness_029", "market": "ES", "start_dt": "2025-08-09", "end_dt": "2025-09-01", "objective": "Retention", "channels": ["search", "social", "email"]}
+{"campaign_id": "CAMP_030", "name": "CHANEL_Retention_030", "market": "US", "start_dt": "2025-08-06", "end_dt": "2025-09-03", "objective": "Conversion", "channels": ["search", "display"]}
+{"campaign_id": "CAMP_031", "name": "CHANEL_Awareness_031", "market": "SG", "start_dt": "2025-08-08", "end_dt": "2025-08-30", "objective": "Traffic", "channels": ["search"]}
+{"campaign_id": "CAMP_032", "name": "CHANEL_Retention_032", "market": "AE", "start_dt": "2025-08-02", "end_dt": "2025-08-16", "objective": "Retention", "channels": ["social", "email", "search"]}
+{"campaign_id": "CAMP_033", "name": "CHANEL_Awareness_033", "market": "SG", "start_dt": "2025-08-05", "end_dt": "2025-08-17", "objective": "Conversion", "channels": ["search"]}
+{"campaign_id": "CAMP_034", "name": "CHANEL_Conversion_034", "market": "KR", "start_dt": "2025-08-08", "end_dt": "2025-08-29", "objective": "Conversion", "channels": ["email"]}
+{"campaign_id": "CAMP_035", "name": "CHANEL_Conversion_035", "market": "UK", "start_dt": "2025-08-08", "end_dt": "2025-09-01", "objective": "Traffic", "channels": ["display", "social"]}
+{"campaign_id": "CAMP_036", "name": "CHANEL_Awareness_036", "market": "UK", "start_dt": "2025-08-10", "end_dt": "2025-08-25", "objective": "Traffic", "channels": ["search", "display"]}
+{"campaign_id": "CAMP_037", "name": "CHANEL_Traffic_037", "market": "DE", "start_dt": "2025-08-10", "end_dt": "2025-09-01", "objective": "Conversion", "channels": ["social"]}
+{"campaign_id": "CAMP_038", "name": "CHANEL_Retention_038", "market": "AE", "start_dt": "2025-08-03", "end_dt": "2025-09-01", "objective": "Awareness", "channels": ["search", "display"]}
+{"campaign_id": "CAMP_039", "name": "CHANEL_Conversion_039", "market": "US", "start_dt": "2025-08-05", "end_dt": "2025-08-26", "objective": "Awareness", "channels": ["display", "email", "social"]}
+{"campaign_id": "CAMP_040", "name": "CHANEL_Awareness_040", "market": "AE", "start_dt": "2025-08-06", "end_dt": "2025-08-31", "objective": "Retention", "channels": ["social", "search", "display"]}
+{"campaign_id": "CAMP_041", "name": "CHANEL_Retention_041", "market": "FR", "start_dt": "2025-08-03", "end_dt": "2025-08-24", "objective": "Awareness", "channels": ["search", "email", "social"]}
+{"campaign_id": "CAMP_042", "name": "CHANEL_Retention_042", "market": "IT", "start_dt": "2025-08-04", "end_dt": "2025-08-24", "objective": "Awareness", "channels": ["social", "search"]}
+{"campaign_id": "CAMP_043", "name": "CHANEL_Retention_043", "market": "US", "start_dt": "2025-08-03", "end_dt": "2025-08-21", "objective": "Traffic", "channels": ["display", "email", "social"]}
+{"campaign_id": "CAMP_044", "name": "CHANEL_Awareness_044", "market": "ES", "start_dt": "2025-08-01", "end_dt": "2025-08-12", "objective": "Traffic", "channels": ["display"]}
+{"campaign_id": "CAMP_045", "name": "CHANEL_Awareness_045", "market": "US", "start_dt": "2025-08-08", "end_dt": "2025-08-25", "objective": "Retention", "channels": ["email"]}
+{"campaign_id": "CAMP_046", "name": "CHANEL_Awareness_046", "market": "ES", "start_dt": "2025-08-09", "end_dt": "2025-08-30", "objective": "Awareness", "channels": ["display"]}
+{"campaign_id": "CAMP_047", "name": "CHANEL_Awareness_047", "market": "UK", "start_dt": "2025-08-09", "end_dt": "2025-09-08", "objective": "Awareness", "channels": ["display", "search", "email"]}
+{"campaign_id": "CAMP_048", "name": "CHANEL_Awareness_048", "market": "AE", "start_dt": "2025-08-08", "end_dt": "2025-08-21", "objective": "Traffic", "channels": ["search", "display"]}
+{"campaign_id": "CAMP_049", "name": "CHANEL_Traffic_049", "market": "ES", "start_dt": "2025-08-01", "end_dt": "2025-08-22", "objective": "Awareness", "channels": ["social", "search", "display"]}
+{"campaign_id": "CAMP_050", "name": "CHANEL_Awareness_050", "market": "DE", "start_dt": "2025-08-01", "end_dt": "2025-08-25", "objective": "Conversion", "channels": ["search", "email", "social"]}
+{"campaign_id": "CAMP_051", "name": "CHANEL_Awareness_051", "market": "KR", "start_dt": "2025-08-05", "end_dt": "2025-09-04", "objective": "Conversion", "channels": ["display", "email", "social"]}
+{"campaign_id": "CAMP_052", "name": "CHANEL_Traffic_052", "market": "SG", "start_dt": "2025-08-04", "end_dt": "2025-09-03", "objective": "Retention", "channels": ["social", "email"]}
+{"campaign_id": "CAMP_053", "name": "CHANEL_Conversion_053", "market": "IT", "start_dt": "2025-08-06", "end_dt": "2025-08-20", "objective": "Retention", "channels": ["email"]}
+{"campaign_id": "CAMP_054", "name": "CHANEL_Traffic_054", "market": "ES", "start_dt": "2025-08-02", "end_dt": "2025-08-31", "objective": "Traffic", "channels": ["search", "email"]}
+{"campaign_id": "CAMP_055", "name": "CHANEL_Conversion_055", "market": "AE", "start_dt": "2025-08-02", "end_dt": "2025-08-13", "objective": "Awareness", "channels": ["display"]}
+{"campaign_id": "CAMP_056", "name": "CHANEL_Retention_056", "market": "JP", "start_dt": "2025-08-09", "end_dt": "2025-09-07", "objective": "Traffic", "channels": ["email"]}
+{"campaign_id": "CAMP_057", "name": "CHANEL_Conversion_057", "market": "ES", "start_dt": "2025-08-05", "end_dt": "2025-08-21", "objective": "Conversion", "channels": ["social", "email", "search"]}
+{"campaign_id": "CAMP_058", "name": "CHANEL_Awareness_058", "market": "DE", "start_dt": "2025-08-07", "end_dt": "2025-09-02", "objective": "Conversion", "channels": ["email", "search", "social"]}
+{"campaign_id": "CAMP_059", "name": "CHANEL_Traffic_059", "market": "IT", "start_dt": "2025-08-08", "end_dt": "2025-08-24", "objective": "Conversion", "channels": ["social", "display", "email"]}
+{"campaign_id": "CAMP_060", "name": "CHANEL_Traffic_060", "market": "DE", "start_dt": "2025-08-03", "end_dt": "2025-08-23", "objective": "Conversion", "channels": ["social", "display"]}
