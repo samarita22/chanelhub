@@ -7,4 +7,3 @@
         email_hash,
         pays
     FROM {{ref('stg_customers')}}
-
