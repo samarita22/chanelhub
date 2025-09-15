@@ -4,6 +4,8 @@ sources:
   - name: channel_raw_data
     database: chanelhub
     schema: raw
+    loaded_at_field: _etl_loaded_at
+
     tables:
       - name: dim_customers
       - name: dim_campaigns
@@ -13,3 +15,7 @@ sources:
       - name: fact_inventory
       - name: fact_web_events
       - name: fact_shipments
+        config:
+          freshness: # make this a little more strict
+            warn_after: {count: 90, period: day}
+            error_after: {count: 100, period: day}
