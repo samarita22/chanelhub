@@ -9,15 +9,16 @@ models:
        - not_null
     - name: pays
       tests:
-       - unique
-       
- - name: stg_orders
+       - not_null
+ - name: dim_products
    columns:
-    - name: order_id
+    - name: product_id
       tests:
        - unique
        - not_null
-    - name: status
+    - name: categorie
       tests:
-        - accepted_values:
-           values: ['completed', 'shipped', 'cancelled', 'pending']
+       - not_null
+    - name: gamme
+      tests:
+       - not_null

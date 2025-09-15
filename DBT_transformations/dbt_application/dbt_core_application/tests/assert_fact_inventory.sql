@@ -1,0 +1,1 @@
+SELECT * from {{ref('fact_inventory')}} where quantite_stockee < 0 and quantite_reservee <0 and quantite_restante <0
