@@ -38,16 +38,16 @@ CREATE OR REPLACE STORAGE INTEGRATION s3_integration
 TYPE=EXTERNAL_STAGE
 STORAGE_PROVIDER=S3
 ENABLED=TRUE
-STORAGE_AWS_ROLE_ARN='arn:aws:iam::570082719694:role/snowdbtrole'
+STORAGE_AWS_ROLE_ARN='arn:aws:iam::193278870299:role/snowrole'
 STORAGE_ALLOWED_LOCATIONS=(
-'s3://snowdbtbuck01/retail/Products_Master/',
-'s3://snowdbtbuck01/retail/orders/',
-'s3://snowdbtbuck01/retail/order_items/',
-'s3://snowdbtbuck01/logistics/',
-'s3://snowdbtbuck01/marketing/campaigns/',
-'s3://snowdbtbuck01/marketing/events/',
-'s3://snowdbtbuck01/rds/customers/',
-'s3://snowdbtbuck01/rds/inventories/'
+'s3://snowdbtbuck0101/retail/Products_Master/',
+'s3://snowdbtbuck0101/retail/orders/',
+'s3://snowdbtbuck0101/retail/order_items/',
+'s3://snowdbtbuck0101/logistics/',
+'s3://snowdbtbuck0101/marketing/campaigns/',
+'s3://snowdbtbuck0101/marketing/events/',
+'s3://snowdbtbuck0101/rds/customers/',
+'s3://snowdbtbuck0101/rds/inventories/'
 );
 ----pour obtenir les propriétés STORAGE_AWS_IAM_USER_ARN et STORAGE_AWS_EXTERNAL_ID pour configuration de la Trust policy
 desc storage integration s3_integration;
@@ -143,42 +143,42 @@ CREATE OR REPLACE TABLE chanelhub.raw.fact_shipments (
 CREATE OR REPLACE STAGE stg_customers
 file_format=(FORMAT_NAME=chanelhub.raw.file_format_csv)
 storage_integration=s3_integration
-URL='s3://snowdbtbuck01/rds/customers/';
+URL='s3://snowdbtbuck0101/rds/customers/';
 
 CREATE OR REPLACE STAGE stg_orders
 file_format=(FORMAT_NAME=chanelhub.raw.file_format_csv)
 storage_integration=s3_integration
-URL='s3://snowdbtbuck01/retail/orders/';
+URL='s3://snowdbtbuck0101/retail/orders/';
 
 CREATE OR REPLACE STAGE stg_order_items
 file_format=(FORMAT_NAME=chanelhub.raw.file_format_csv)
 storage_integration=s3_integration
-URL='s3://snowdbtbuck01/retail/order_items/';
+URL='s3://snowdbtbuck0101/retail/order_items/';
 
 CREATE OR REPLACE STAGE stg_products_master
 file_format=(FORMAT_NAME=chanelhub.raw.file_format_csv)
 storage_integration=s3_integration
-URL='s3://snowdbtbuck01/retail/Products_Master/';
+URL='s3://snowdbtbuck0101/retail/Products_Master/';
 
 CREATE OR REPLACE STAGE stg_inventory
 file_format=(FORMAT_NAME=chanelhub.raw.file_format_csv)
 storage_integration=s3_integration
-URL='s3://snowdbtbuck01/rds/inventories/';
+URL='s3://snowdbtbuck0101/rds/inventories/';
 
 CREATE OR REPLACE STAGE stg_shipments
 file_format=(FORMAT_NAME=chanelhub.raw.ff_jsonl)
 storage_integration=s3_integration
-URL='s3://snowdbtbuck01/logistics/';
+URL='s3://snowdbtbuck0101/logistics/';
 
 CREATE OR REPLACE STAGE  stg_campaigns
 file_format=(FORMAT_NAME=chanelhub.raw.ff_jsonl)
 storage_integration=s3_integration
-URL='s3://snowdbtbuck01/marketing/campaigns/';
+URL='s3://snowdbtbuck0101/marketing/campaigns/';
 
 CREATE OR REPLACE STAGE stg_web_events
 file_format=(FORMAT_NAME=chanelhub.raw.ff_jsonl)
 storage_integration=s3_integration
-URL='s3://snowdbtbuck01/marketing/events/';
+URL='s3://snowdbtbuck0101/marketing/events/';
 
 list @stg_web_events;
 --- Injection continue des données dans les tables------
@@ -293,13 +293,12 @@ FROM (
 FILE_FORMAT = (FORMAT_NAME = chanelhub.raw.ff_jsonl)
 ON_ERROR = 'CONTINUE';
 
-
 ---Requêtes de checkin et config d'un event notification--------------------
 show pipes;
 select SYSTEM$PIPE_STATUS('chanelhub.raw.customers_pipe');
 select SYSTEM$PIPE_STATUS('orders_pipe');
 
-select * from chanelhub.raw.dim_customers;
+select * from chanelhub.raw.CHANELHUB.STG;
 select * from chanelhub.raw.dim_products_master;
 select * from chanelhub.raw.dim_campaigns;
 select * from chanelhub.raw.fact_orders;
@@ -307,3 +306,28 @@ select * from fact_order_items;
 select * from chanelhub.raw.fact_inventory;
 select * from chanelhub.raw.fact_web_events;
 select * from chanelhub.raw.fact_shipments;
+
+---Requêtes sur les vues du staging(STG)
+select * from CHANELHUB.STG.STG_CUSTOMERS;
+select * from CHANELHUB.STG.STG_COMPAIGNS;
+select * from CHANELHUB.STG.STG_EVENTS;
+select * from CHANELHUB.STG.STG_INVENTORY;
+select * from CHANELHUB.STG.STG_ORDERS;
+select * from CHANELHUB.STG.STG_ORDER_ITEMS;
+select * from CHANELHUB.STG.STG_PRODUCTS;
+select * from CHANELHUB.STG.STG_SHIPMENTS;
+select * from CHANELHUB.CORE.FACT_ORDERS_AND_EVENTS;
+
+select
+canal, count(*) 
+from CHANELHUB.CORE.FACT_SALES
+group by canal;
+
+select code_magasin, count(*) from CHANELHUB.CORE.DIM_STORE group by code_magasin;
+select * from CHANELHUB.CORE.FACT_INVENTORY;
+select * from CHANELHUB.CORE.FACT_ORDERS_AND_EVENTS;
+select * from CHANELHUB.MARTS.FACT_VIEW_SHIPMENTS A
+join CHANELHUB.MARTS.FACT_VIEW_ORDERS_AND_EVENTS B
+USING(order_id);
+
+select SYSTEM$PIPE_STATUS('chanelhub.raw.orders_pipe');
